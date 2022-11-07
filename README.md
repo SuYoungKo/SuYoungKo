@@ -5,7 +5,7 @@
 
 <h2>Techs stack</h2>  
 
-![Zivallo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zivallo&layout=compact&theme=tokyonight)  
+![Zivallo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYoungKo&layout=compact&theme=tokyonight)  
 
 <h4>Tech that I've used at least once</h4>  
 
