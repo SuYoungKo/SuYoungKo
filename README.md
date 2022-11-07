@@ -13,10 +13,14 @@
 
 <div align="center"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></div>  
  
+ 
 <h2>Problem Solving</h2>  
 
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068) -->
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)](https://solved.ac/kk5068)
+ <br>
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kk5068&theme=dark)
+
 
 </div>
