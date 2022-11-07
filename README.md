@@ -15,6 +15,8 @@
  
 <h2>Problem Solving</h2>  
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068) -->
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)](https://solved.ac/kk5068)
 
 </div>
