@@ -1,7 +1,7 @@
 <div align="center">  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=75&width=Auto)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZivallo&count_bg=%2345DABF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuYoungKo&count_bg=%233B73D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>Techs stack</h2>  
 
