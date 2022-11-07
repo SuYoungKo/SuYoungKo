@@ -5,7 +5,7 @@
 
 <h2>Techs stack</h2>  
 
-![Zivallo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYoungKo&layout=compact&theme=tokyonight)  
+![SuYoungKo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYoungKo&layout=compact&theme=tokyonight)  
 
 <h4>Tech that I've used at least once</h4>  
 
@@ -16,9 +16,5 @@
 <h2>Problem Solving</h2>  
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)
-
-<!-- <h2>Github Stats</h2>  
-
- ![Zivallo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zivallo&show_icons=true&theme=tokyonight) -->
 
 </div>
