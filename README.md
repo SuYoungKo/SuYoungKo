@@ -1,7 +1,7 @@
 <div align="center">  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:fa52de&height=150&section=header&text=Hello%20visitors!&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=75&width=Auto)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuYoungKo&count_bg=%233B73D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+                                                        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeyungi%2Fhit-counter"/></a>                        
 
 <h2>Techs stack</h2>  
 
@@ -16,11 +16,11 @@
  
 <h2>Problem Solving</h2>  
 
-<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068) -->
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luk951202) -->
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)](https://solved.ac/kk5068)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luk951202)](https://solved.ac/luk951202)
  <br>
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kk5068&theme=dark)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=luk951202&theme=dark)
 
 
 </div>
