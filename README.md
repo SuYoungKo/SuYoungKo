@@ -20,7 +20,7 @@
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk5068)](https://solved.ac/kk5068)
  <br>
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kk5068&theme=dark)
+ <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=kk5068&theme=dark)-->
 
 
 </div>
